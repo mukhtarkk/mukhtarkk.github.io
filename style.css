@@ -1,0 +1,34 @@
+h1 {
+  color: red;
+}
+
+li{
+  font-size:35px;
+}
+
+.ggg {
+  font-size: 10px;
+}
+.rrr{
+  font-size: 78px;
+}
+
+p {
+  color: red;
+}
+p:hover {
+  color: orange;
+}
+img {
+  width:200px;
+  height:150px;
+}
+body {
+  background-color: red;
+}
+
+@media (min-width: 600px) and (max-width: 960px){
+  body {
+    background-color: blue;
+  }
+}
